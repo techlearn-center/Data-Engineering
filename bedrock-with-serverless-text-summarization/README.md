@@ -26,7 +26,4 @@ In this video, we will implement a text summarization application. This applicat
   `docker run -p 8082:8082 -it serverless-text-summarization-frontend`
 
 
-## Youtube
-I have created a Youtube video for this tutorials with step-by-step hands-on coding.
 
-[![Text Summarization - Generative AI Application - With AWS Bedrock and Serverless Lambda](https://i9.ytimg.com/vi/DIt2Hwy-FTM/mqdefault.jpg?v=664d1aae&sqp=CKyDtrIG&rs=AOn4CLDA-_EQ3-Ksn5bh__pB-IdDpuBdKg)](https://www.youtube.com/watch?v=DIt2Hwy-FTM)
